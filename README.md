@@ -8,5 +8,10 @@ Please upload the following files to the GitHub repository.
 2. a screenshot of your code output
 3. a screenshot showing all the files names in the directory you used.
 
+## Python Tutorial
+- [Python 3 Tutorial](https://docs.python.org/3/tutorial/)
+- [Moving to Python from Other Languages](https://wiki.python.org/moin/MovingToPythonFromOtherLanguages)
+- [Python Projects on LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284?trk=lynda_redirect_learning)
+
 
 
